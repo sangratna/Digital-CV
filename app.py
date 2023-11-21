@@ -90,11 +90,13 @@ st.markdown("""
         - Best Performing model: all models performed well, but DTR & XGB were the best, achieving an R2 score above 0.95 in both cases
     
     
+    
     2) **Spam Detection**: 
         - Developed a Machine Learning-based spam detection system using the Kaggle dataset 'Spam.csv' 
         - Created a user-friendly web application for seamless spam identification
         - Model Used: Natural Language Processing
         - GitHub Link: [Spam Detection Repository](https://github.com/sangratna/SBG_Spam_detection.git)
+    
     
     
     3) **M. Tech Project Web Application**: 
@@ -104,10 +106,12 @@ st.markdown("""
         - GitHub Link: [Web Application Repository](https://github.com/sangratna/Indoor_solar_cell_efficiency-prediction.git)
     
     
+    
     4) **Sales Analysis using MySQL and Tableau**: 
         - Project involves analyzing sales data using MySQL for data management and Tableau for visualization
         - Dataset contains information about orders, including order number, quantity, price, product details, customer information, and more
         - GitHub Link: [Sales Analysis Repository](https://github.com/sangratna/SALES-PROJECT.git)
+    
     
     
     5) **IPL SQL Data Analysis**: 
